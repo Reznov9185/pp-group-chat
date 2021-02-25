@@ -1,0 +1,30 @@
+{
+  "name": "pp-group-chat",
+  "version": "1.0.0",
+  "description": "A group chat to play and train with PlanningPoker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Reznov9185/pp-group-chat.git"
+  },
+  "keywords": [
+    "planning_poker",
+    "software_engineering",
+    "ml",
+    "ai"
+  ],
+  "author": "sajid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reznov9185/pp-group-chat/issues"
+  },
+  "homepage": "https://github.com/Reznov9185/pp-group-chat#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "socket.io": "^3.1.1"
+  }
+}
